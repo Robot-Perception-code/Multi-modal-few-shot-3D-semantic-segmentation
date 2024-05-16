@@ -2,5 +2,5 @@
 
 Code will be released soon.
 
-Please refer to the paper video: https://youtu.be/XwBOhX0_NuU
+Please refer to the paper video: https://youtu.be/za52KwPOQ7g
 ![teaser](framework.png)
